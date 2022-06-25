@@ -1,0 +1,3 @@
+C:\Users\fjgvg\Desktop\WindowsFormsApplication19\WindowsForms\bin\Debug\WindowsFormsApplication19.exe.config
+C:\Users\fjgvg\Desktop\WindowsFormsApplication19\WindowsForms\obj\Debug\WindowsFormsApplication19.exe
+C:\Users\fjgvg\Desktop\WindowsFormsApplication19\WindowsForms\obj\Debug\WindowsFormsApplication19.pdb

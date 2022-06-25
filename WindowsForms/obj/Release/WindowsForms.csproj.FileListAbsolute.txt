@@ -1,0 +1,9 @@
+C:\Users\fjgvg\Desktop\WindowsFormsApplication19\WindowsForms\bin\Release\WindowsFormsApplication19.exe.config
+C:\Users\fjgvg\Desktop\WindowsFormsApplication19\WindowsForms\bin\Release\WindowsFormsApplication19.exe
+C:\Users\fjgvg\Desktop\WindowsFormsApplication19\WindowsForms\bin\Release\WindowsFormsApplication19.pdb
+C:\Users\fjgvg\Desktop\WindowsFormsApplication19\WindowsForms\obj\Release\WindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\fjgvg\Desktop\WindowsFormsApplication19\WindowsForms\obj\Release\WindowsFormsApplication19.Form1.resources
+C:\Users\fjgvg\Desktop\WindowsFormsApplication19\WindowsForms\obj\Release\WindowsFormsApplication19.Properties.Resources.resources
+C:\Users\fjgvg\Desktop\WindowsFormsApplication19\WindowsForms\obj\Release\WindowsForms.csproj.GenerateResource.Cache
+C:\Users\fjgvg\Desktop\WindowsFormsApplication19\WindowsForms\obj\Release\WindowsFormsApplication19.exe
+C:\Users\fjgvg\Desktop\WindowsFormsApplication19\WindowsForms\obj\Release\WindowsFormsApplication19.pdb
